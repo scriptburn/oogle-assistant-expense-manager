@@ -1,0 +1,153 @@
+[
+  {
+    "id": "f4cf3f40-975e-4bba-9ab6-d57fed05d1cd",
+    "data": [
+      {
+        "text": "status or expense id ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "expense_id",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc37f01d-751d-4670-a6bb-07d89faba7c3",
+    "data": [
+      {
+        "text": "status of expense id ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "expense_id",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98097eee-25f3-4f5d-894b-62187302939b",
+    "data": [
+      {
+        "text": "id ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "alias": "expense_id",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4db6fbe8-c11d-4ecb-8890-733f5086f63d",
+    "data": [
+      {
+        "text": "expense ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "alias": "expense_id",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d111f06d-1954-4cf0-b6ac-891b87ac535b",
+    "data": [
+      {
+        "text": "expense id ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "alias": "expense_id",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c41e914-4c03-4bfd-a340-7f550c5ca856",
+    "data": [
+      {
+        "text": "show expense status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1532647f-21ce-429b-adb8-fa6b529a3b6a",
+    "data": [
+      {
+        "text": "expense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cb27126-77ff-4b5e-b1ed-3e58fb0a38ea",
+    "data": [
+      {
+        "text": "search in expense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f97837e7-f7a4-4301-8389-d3e1274d4609",
+    "data": [
+      {
+        "text": "status of expense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52bb20eb-3832-4f4b-ba59-912c4bccc033",
+    "data": [
+      {
+        "text": "expense status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e33c039-1333-4e3e-9548-13e04c94f201",
+    "data": [
+      {
+        "text": "Search for an expense?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

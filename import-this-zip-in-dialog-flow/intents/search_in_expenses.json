@@ -1,0 +1,36 @@
+{
+  "id": "bc1fcde5-addd-4db5-8d30-7db83b6deb3b",
+  "name": "search_in_expenses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "search_in_expenses-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d5aeb1c9-1e32-4675-8ebc-d07958b34d3e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "expense_id",
+          "value": "$expense_id",
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

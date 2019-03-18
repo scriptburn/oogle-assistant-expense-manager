@@ -1,0 +1,36 @@
+{
+  "id": "92be4411-1aa1-453a-960b-ae07cd43703c",
+  "name": "implicit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23e6ce7e-57f9-4ef9-a706-43c5970c4272",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "expense_id",
+          "value": "$expense_id",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

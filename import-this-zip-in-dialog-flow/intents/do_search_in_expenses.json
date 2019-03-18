@@ -1,0 +1,48 @@
+{
+  "id": "b3d3a7c3-e6c2-40ad-a593-63d6f8b1334a",
+  "parentId": "bc1fcde5-addd-4db5-8d30-7db83b6deb3b",
+  "rootParentId": "bc1fcde5-addd-4db5-8d30-7db83b6deb3b",
+  "name": "do_search_in_expenses",
+  "auto": true,
+  "contexts": [
+    "search_in_expenses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2dd1251-d3ee-43a0-8a82-2f81845b9ced",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide Expense id"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

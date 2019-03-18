@@ -1,0 +1,33 @@
+{
+  "id": "e20ae5dc-39a2-4049-b3d8-befc3078282b",
+  "parentId": "bc1fcde5-addd-4db5-8d30-7db83b6deb3b",
+  "rootParentId": "bc1fcde5-addd-4db5-8d30-7db83b6deb3b",
+  "name": "search_in_expenses - yes",
+  "auto": true,
+  "contexts": [
+    "search_in_expenses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "search_in_expenses.search_in_expenses-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1b320640-edbc-48cf-9a9f-097deceec67c",
+    "data": [
+      {
+        "text": "@",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
